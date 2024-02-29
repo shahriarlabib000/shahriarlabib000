@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahriarlabib000
 - 👀 I’m interested in ... dk
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... godot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... don't 
 
